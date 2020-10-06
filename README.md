@@ -12,7 +12,7 @@ Como por ejemplo:
 1. ¿Qué es?
 2. ¿Para qué sirve?
 3. ¿Qué herramientas proporciona?
-4. ¿Cómo crearse una cuenta?
+4. ¿Cómo crear una cuenta?
 5. ¿Cómo crear repositorios?
 6. ¿Cómo colaborar en otros proyectos? - (**Fork** y **Pull**)
 
